@@ -1,28 +1,28 @@
 {
-  "name": "@algoan/eslint-config-react",
+  "name": "@custom/eslint-config-react",
   "version": "2.4.0",
-  "description": "Algoan React ESLint configuration",
+  "description": "React ESLint configuration",
   "main": "index.js",
   "scripts": {
     "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/algoan/eslint-config-react.git"
+    "url": "git+https://github.com/mariocrist/eslint-config-react.git"
   },
   "keywords": [
     "eslint",
-    "algoan",
+    "custom",
     "react",
     "typescript",
     "eslintconfig"
   ],
-  "author": "Algoan",
+  "author": "base",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/algoan/eslint-config-react/issues"
+    "url": "https://github.com/mariocrist/eslint-config-react/issues"
   },
-  "homepage": "https://github.com/algoan/eslint-config-react#readme",
+  "homepage": "https://github.com/mariocrist/eslint-config-react#readme",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.11.0",
     "@typescript-eslint/parser": "^5.11.0",
